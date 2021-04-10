@@ -4,7 +4,7 @@
 Manual de usuario, donde se explica el uso de la herramienta y las diferentes secciones del sistema de Inventarios.
 
 Para poder ingresar al sistema de debe ir a la siguiente direccion
-nota: verificar la url correcta
+Nota: verificar la url correcta, para los usuarios del FCE
 http://201.116.36.74
 
 == Loggin
