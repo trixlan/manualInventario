@@ -4,7 +4,7 @@
 Manual de usuario, donde se explica el uso de la herramienta y las diferentes secciones del sistema de Inventarios.
 
 Para poder ingresar al sistema se debe ir a la siguiente direccion.
-
+nota: revisar la url.
 http://201.116.36.74
 
 == Tipos de campos 
